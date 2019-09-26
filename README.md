@@ -1,5 +1,5 @@
 # Python Introduction
 ## Author
-Annegret
+Annegret Baade-Kelishani
 ## Date
-20190926
+2019-09-26
